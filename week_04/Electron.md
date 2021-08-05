@@ -29,3 +29,4 @@
 ## 참고자료
 일렉트론의 프로세스를 이해기위한 크로미움 모던 브라우저에 대한 자료
 - [모던 웹 브라우저 들여다보기](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+- [삼성 SDS 인사이트 리포트](https://www.samsungsds.com/kr/insights/1239178_4627.html)
